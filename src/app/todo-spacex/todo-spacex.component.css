@@ -1,0 +1,18 @@
+tr {
+    background-color: rgb(231, 231, 181);
+    font-size: 20px;
+}
+
+body {
+    background-color: rgb(179, 182, 182);
+}
+
+h2 {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 25px;
+}
+
+td {
+    font-size: 18px;
+}
